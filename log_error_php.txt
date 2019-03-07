@@ -1,0 +1,3 @@
+[02-Oct-2018 14:39:57 UTC] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in C:\wamp64\www\epargne plus\membres.php on line 12
+[02-Oct-2018 14:39:57 UTC] PHP Stack trace:
+[02-Oct-2018 14:39:57 UTC] PHP   1. {main}() C:\wamp64\www\epargne plus\membres.php:0
