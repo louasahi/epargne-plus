@@ -12,9 +12,7 @@ il peut aussi consulter les soldes des differents membres.
 ***Un membre ne peut que consulter ses infos, son historique de depot et retrait ansi que son solde après 
 s'être connecté.
 
-#######################################
-COPIE ET INSTALLATION DE L'APPLICATION
-#######################################
+##COPIE ET INSTALLATION DE L'APPLICATION
 
 -Telecharger et installer wampserver 3.0.6
 -Cloner le repo epargne-plus depuis gihtub sur votre machine local 
@@ -26,9 +24,7 @@ COPIE ET INSTALLATION DE L'APPLICATION
   -Vous pouvez maintenant lancer l'application .
   
   
-  #######################
-  PARAMETRE DE CONNEXION
-  ######################
+  ##PARAMETRE DE CONNEXION
   
  connexion administrateur: login: admin
                     mot de passe: admin
