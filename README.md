@@ -26,9 +26,11 @@ s'être connecté.
   
   ##PARAMETRE DE CONNEXION
   
- connexion administrateur: login: admin
+ connexion administrateur: 
+                    login: admin
                     mot de passe: admin
- connexion membres : login: membre1
+ connexion membres : 
+                    login: membre1
                     mot de passe: membre1
                     
                     login: membre2
