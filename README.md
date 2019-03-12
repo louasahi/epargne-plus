@@ -15,21 +15,29 @@ s'être connecté.
 ##COPIE ET INSTALLATION DE L'APPLICATION
 
 -Telecharger et installer wampserver 3.0.6
+
 -Cloner le repo epargne-plus depuis gihtub sur votre machine local 
+
 -creer une base de donnée nommée epargne depuis PHPMYADMIN
+
 -De-zipper l'archive
+
 -Copier le dossier vers c:/wamp64/www
+
 -Maintenant dans PHPMYADMIN importer le fichier epargne.sql qui se trouve dans le dossier 
   epargne plus précedement deplacé vers c:/wamp64/www
+  
   -Vous pouvez maintenant lancer l'application .
   
   
   ##PARAMETRE DE CONNEXION
   
  connexion administrateur: 
+                    
                     login: admin
                     mot de passe: admin
  connexion membres : 
+                    
                     login: membre1
                     mot de passe: membre1
                     
